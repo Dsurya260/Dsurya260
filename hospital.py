@@ -129,8 +129,8 @@ if __name__ == "__main__":
     hospital = Hospital("City Hospital")
 
     # Add Doctors
-    doctor1 = Doctor(1, "Dr. Smith", 45, "Cardiology")
-    doctor2 = Doctor(2, "Dr. Johnson", 50, "Neurology")
+    doctor1 = Doctor(1, "Dr. Doctor1", 45, "Cardiology")
+    doctor2 = Doctor(2, "Dr. Doctor2", 50, "Neurology")
     
 
     hospital.add_doctor(doctor1)
@@ -138,8 +138,8 @@ if __name__ == "__main__":
     
 
     # Add Patients
-    patient1 = Patient(101, "Alice", 30, "Chest Pain")
-    patient2 = Patient(102, "Bob", 45, "Headache")
+    patient1 = Patient(101, "Patient_y", 30, "Chest Pain")
+    patient2 = Patient(102, "Patient_z", 45, "Headache")
     
 
     hospital.add_patient(patient1)

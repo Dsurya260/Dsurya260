@@ -13,3 +13,18 @@
 2024-11-28 09:26:34,394 - INFO - Displaying all appointments in the hospital.
 2024-11-28 09:26:34,395 - INFO - Appointment[ID: 1, Patient: Patient_y, Doctor: Dr. Doctor1, Time: 2024-11-26 10:00:00]
 2024-11-28 09:26:34,395 - INFO - Appointment[ID: 2, Patient: Patient_z, Doctor: Dr. Doctor2, Time: 2024-11-26 14:00:00]
+2024-11-29 16:15:02,134 - INFO - Added Doctor: Dr. Doctor1 (Cardiology).
+2024-11-29 16:15:02,136 - INFO - Added Doctor: Dr. Doctor2 (Neurology).
+2024-11-29 16:15:02,136 - INFO - Added Patient: Patient_y (Ailment: Chest Pain).
+2024-11-29 16:15:02,137 - INFO - Added Patient: Patient_z (Ailment: Headache).
+2024-11-29 16:15:02,137 - INFO - Appointment booked: Appointment[ID: 1, Patient: Patient_y, Doctor: Dr. Doctor1, Time: 2024-11-26 10:00:00]
+2024-11-29 16:15:02,138 - INFO - Appointment booked: Appointment[ID: 2, Patient: Patient_z, Doctor: Dr. Doctor2, Time: 2024-11-26 14:00:00]
+2024-11-29 16:15:02,138 - INFO - Displaying all doctors in the hospital.
+2024-11-29 16:15:02,139 - INFO - Doctor[ID: 1, Name: Dr. Doctor1, Specialization: Cardiology]
+2024-11-29 16:15:02,139 - INFO - Doctor[ID: 2, Name: Dr. Doctor2, Specialization: Neurology]
+2024-11-29 16:15:02,140 - INFO - Displaying all patients in the hospital.
+2024-11-29 16:15:02,141 - INFO - Patient[ID: 101, Name: Patient_y, Ailment: Chest Pain]
+2024-11-29 16:15:02,141 - INFO - Patient[ID: 102, Name: Patient_z, Ailment: Headache]
+2024-11-29 16:15:02,142 - INFO - Displaying all appointments in the hospital.
+2024-11-29 16:15:02,143 - INFO - Appointment[ID: 1, Patient: Patient_y, Doctor: Dr. Doctor1, Time: 2024-11-26 10:00:00]
+2024-11-29 16:15:02,143 - INFO - Appointment[ID: 2, Patient: Patient_z, Doctor: Dr. Doctor2, Time: 2024-11-26 14:00:00]
